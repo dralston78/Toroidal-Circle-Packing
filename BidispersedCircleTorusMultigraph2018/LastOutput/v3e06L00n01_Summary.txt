@@ -1,0 +1,32 @@
+***************************************************
+An analysis of the abstract graph: v3e06L00n01
+***************************************************
+There are --> 36 <-- labeled and oriented embeddings on a topological torus.
+These embeddings have --> 2 <-- different face degree types.
+These reduce to --> 2 <-- unlabeled and unoriented embeddings.
+Of the unlabeled and unoriented embedding --> 0 <-- are NON-ELIMINATABLE using the forbidden face degree patterns
+and --> 2 <-- are eliminatable using the forbidden face degree patterns.
+***************************************************
+
+************************************ Version 1 - Face Type: [ 3 3 6 ] Total: 1 ************************************
+Inequivalent embeddings of this face type which are NOT face pattern eliminatable: 0
+Inequivalent embedding of this face type which ARE face degree eliminatable: 1
+
+----- NON-ELIMINATABLE -----
+----- ELIMINATABLE -----
+v3e06L00n01_T1_1: {{1,1,2,1,2},{2,0,0,0},{1,0,0}}
+   Vertices Face Pattern:  {{3,3,6,6,6},{3,3,6,6},{3,3,6}}
+   Face pattern: [ 3,3,6,] around Vertex --> 2 <-- which is of the forbidden type [3,3,?]
+
+
+************************************ Version 2 - Face Type: [ 3 4 5 ] Total: 1 ************************************
+Inequivalent embeddings of this face type which are NOT face pattern eliminatable: 0
+Inequivalent embedding of this face type which ARE face degree eliminatable: 1
+
+----- NON-ELIMINATABLE -----
+----- ELIMINATABLE -----
+v3e06L00n01_T2_1: {{1,1,2,1,2},{2,0,0,0},{1,0,0}}
+   Vertices Face Pattern:  {{3,4,4,5,5},{3,4,5,5},{3,4,5}}
+   Face pattern: [ 3,4,5,] around Vertex --> 2 <-- which is of the forbidden type [3,4,?]
+
+
