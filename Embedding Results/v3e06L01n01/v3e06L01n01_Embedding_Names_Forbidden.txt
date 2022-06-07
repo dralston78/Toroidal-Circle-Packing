@@ -1,0 +1,6 @@
+NumberOfFaceTypes ListOfFaceTypes NumberTorRotationSchemed InequivalentEmbedding Non-Eliminatable Eliminatable 
+2 {{3,3,3,5},{3,3,4,4}} 168 4 0 4
+v3e06L01n01_T1_1 {{1,1,2,0,1,0,2},{2,0,0,0},{1,0,0}} {{3,3,3,3,5,5,5},{3,3,5,5},{3,3,3}} Vertexwith7(ormore)polygons 0
+v3e06L01n01_T1_2 {{1,1,0,2,1,2,0},{2,0,0,0},{1,0,0}} {{3,3,3,3,3,5,5},{3,3,5,5},{3,3,5}} Vertexwith7(ormore)polygons 0
+v3e06L01n01_T1_3 {{1,2,1,0,1,2,0},{2,0,0,0},{1,0,0}} {{3,3,3,3,5,5,5},{3,3,3,5},{3,3,5}} Vertexwith7(ormore)polygons 0
+v3e06L01n01_T2_1 {{1,2,1,0,1,2,0},{2,0,0,0},{1,0,0}} {{3,3,3,4,4,4,4},{3,3,4,4},{3,4,4}} Vertexwith7(ormore)polygons 0

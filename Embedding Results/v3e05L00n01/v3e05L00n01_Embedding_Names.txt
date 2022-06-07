@@ -1,0 +1,4 @@
+NumberOfFaceTypes ListOfFaceTypes NumberTorRotationSchemed InequivalentEmbedding Non-Eliminatable Eliminatable 
+2 {{3,7},{4,6}} 12 2 2 0
+v3e05L00n01_T1_1 {{1,2,1,2},{2,0,0},{1,0,0}} {{3,7,7,7},{3,7,7},{3,7,7}}
+v3e05L00n01_T2_1 {{1,1,2,2},{2,0,0},{1,0,0}} {{4,4,6,6},{4,6,6},{4,6,6}}

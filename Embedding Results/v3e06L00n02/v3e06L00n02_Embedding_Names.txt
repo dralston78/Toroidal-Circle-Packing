@@ -1,0 +1,2 @@
+NumberOfFaceTypes ListOfFaceTypes NumberTorRotationSchemed InequivalentEmbedding Non-Eliminatable Eliminatable 
+1 {{4,4,4}} 12 1 0 1
